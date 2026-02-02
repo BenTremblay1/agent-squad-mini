@@ -1,7 +1,7 @@
 # TASK: Build follow-up sequences for leads (Project A)
 
 ## Status
-INBOX
+REVIEW
 
 ## Owner
 - Pepper (outreach)
@@ -26,3 +26,5 @@ Primary CTA is "Book 15-min setup call". Secondary is template download.
 
 ## Notes / Log
 - 2026-02-02: Created
+- 2026-02-02: Drafted 3 follow-up sequences (no-show, template download, post-call nurture) with email + optional SMS + voicemail drops; added booking link + placeholder fields. Deliverable written to `deliverables/project-a-certmatrix/003-followup-sequences.md`.
+- 2026-02-02: Polish pass — added explicit CTA link to the post-call nurture Touch 2, strengthened “stop bugging you” touch copy, and expanded SMS compliance note.

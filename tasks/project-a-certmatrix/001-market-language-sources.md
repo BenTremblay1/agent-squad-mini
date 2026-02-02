@@ -1,7 +1,7 @@
 # TASK: Find ICP language + places they hang out (Project A)
 
 ## Status
-INBOX
+REVIEW
 
 ## Owner
 - Fury (research)
@@ -23,3 +23,8 @@ Product: CertMatrix — "Never miss an expiring cert — generate a GC-ready tra
 
 ## Notes / Log
 - 2026-02-02: Created
+- 2026-02-02: Drafted language research deliverable: `deliverables/project-a-certmatrix/001-research-language.md`.
+  - Included 19 verbatim quotes w/ links (mostly vendor + safety resource language; limited direct office-manager/safety-coordinator forum quotes due to access/login constraints).
+  - Included starter list of 5 communities (3 FB groups + 2 subreddits).
+  - Proposed 2 ad angles + 2 landing page headline variants.
+  - If you want *truly verbatim ICP language*, recommend: (a) scrape comments from FB/LinkedIn groups Ben can access, or (b) 10 short interviews with office managers/safety coordinators at non-union subs.
